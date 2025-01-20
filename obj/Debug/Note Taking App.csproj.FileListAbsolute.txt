@@ -1,0 +1,20 @@
+D:\c#\Note Taking App\bin\Debug\Note Taking App.exe.config
+D:\c#\Note Taking App\bin\Debug\Note Taking App.exe
+D:\c#\Note Taking App\bin\Debug\Note Taking App.pdb
+D:\c#\Note Taking App\obj\Debug\Note Taking App.csproj.AssemblyReference.cache
+D:\c#\Note Taking App\obj\Debug\Note Taking App.csproj.SuggestedBindingRedirects.cache
+D:\c#\Note Taking App\obj\Debug\Note_Taking_App.NoteTaker.resources
+D:\c#\Note Taking App\obj\Debug\Note_Taking_App.Properties.Resources.resources
+D:\c#\Note Taking App\obj\Debug\Note Taking App.csproj.GenerateResource.cache
+D:\c#\Note Taking App\obj\Debug\Note Taking App.csproj.CoreCompileInputs.cache
+D:\c#\Note Taking App\obj\Debug\Note Taking App.exe
+D:\c#\Note Taking App\obj\Debug\Note Taking App.pdb
+C:\Users\User\Documents\Note Taking App\bin\Debug\Note Taking App.exe.config
+C:\Users\User\Documents\Note Taking App\bin\Debug\Note Taking App.exe
+C:\Users\User\Documents\Note Taking App\bin\Debug\Note Taking App.pdb
+C:\Users\User\Documents\Note Taking App\obj\Debug\Note_Taking_App.NoteTaker.resources
+C:\Users\User\Documents\Note Taking App\obj\Debug\Note_Taking_App.Properties.Resources.resources
+C:\Users\User\Documents\Note Taking App\obj\Debug\Note Taking App.csproj.GenerateResource.cache
+C:\Users\User\Documents\Note Taking App\obj\Debug\Note Taking App.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Note Taking App\obj\Debug\Note Taking App.exe
+C:\Users\User\Documents\Note Taking App\obj\Debug\Note Taking App.pdb
